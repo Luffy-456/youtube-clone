@@ -15,9 +15,7 @@ A static replica of YouTube's user interface, crafted using HTML and CSS. This p
 
 - **HTML Files**:
   - `youtube.html`: Main page replicating YouTube's layout.
-  - `flexbox.html`: Demonstrates layout using Flexbox.
-  - `grid.html`: Demonstrates layout using CSS Grid.
-  - `position.html`: Showcases positioning techniques in CSS.
+
 
 - **Directories**:
   - `styles/`: Contains CSS files for styling the pages.
